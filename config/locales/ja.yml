@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    attributes:
+      user:
+        name: "お名前"
+        password: "パスワード"
+        password_confirmation: "パスワード確認"
+        email: "メールアドレス"
+      list:
+        title: "リスト名"
+      card:
+        title: "カード名"
+        memo: "メモ"
+        
